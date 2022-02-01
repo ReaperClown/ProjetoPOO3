@@ -1,0 +1,16 @@
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\bin\Debug\netcoreapp3.1\ProjetoPOO3.exe
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\bin\Debug\netcoreapp3.1\ProjetoPOO3.deps.json
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\bin\Debug\netcoreapp3.1\ProjetoPOO3.runtimeconfig.json
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\bin\Debug\netcoreapp3.1\ProjetoPOO3.runtimeconfig.dev.json
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\bin\Debug\netcoreapp3.1\ProjetoPOO3.dll
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\bin\Debug\netcoreapp3.1\ProjetoPOO3.pdb
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\obj\Debug\netcoreapp3.1\ProjetoPOO3.csproj.AssemblyReference.cache
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\obj\Debug\netcoreapp3.1\ProjetoPOO3.Form1.resources
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\obj\Debug\netcoreapp3.1\ProjetoPOO3.csproj.GenerateResource.cache
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\obj\Debug\netcoreapp3.1\ProjetoPOO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\obj\Debug\netcoreapp3.1\ProjetoPOO3.AssemblyInfoInputs.cache
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\obj\Debug\netcoreapp3.1\ProjetoPOO3.AssemblyInfo.cs
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\obj\Debug\netcoreapp3.1\ProjetoPOO3.csproj.CoreCompileInputs.cache
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\obj\Debug\netcoreapp3.1\ProjetoPOO3.dll
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\obj\Debug\netcoreapp3.1\ProjetoPOO3.pdb
+C:\Users\WillianMesquitaInfoh\source\repos\ProjetoPOO3\ProjetoPOO3\obj\Debug\netcoreapp3.1\ProjetoPOO3.genruntimeconfig.cache
