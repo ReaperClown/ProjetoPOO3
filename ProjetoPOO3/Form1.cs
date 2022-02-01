@@ -26,12 +26,7 @@ namespace ProjetoPOO3
 
         private void btnClean_Click(object sender, EventArgs e)
         {
-            textBN1.Clear();
-            textBN2.Clear();
-            textBN3.Clear();
-            lblMedia.Text = "";
-            textBResult.Clear();
-            textBN1.Focus();
+            cleanFields();
         }
 
         private void textBN1_TextChanged(object sender, EventArgs e)
@@ -136,6 +131,16 @@ namespace ProjetoPOO3
                 lblMedia.ForeColor = Color.Red;
                 textBResult.Text += "aluno reprovado";
             }
+        }
+
+        private void cleanFields()
+        {
+            textBN1.Clear();
+            textBN2.Clear();
+            textBN3.Clear();
+            lblMedia.Text = "";
+            textBResult.Clear();
+            textBN1.Focus();
         }
     }
 }
